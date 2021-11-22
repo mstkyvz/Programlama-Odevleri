@@ -1,4 +1,4 @@
-# Programlama-devleri
+# Programlama-Ödevleri
 Programlama Derslerin Ödevleri
 
 
